@@ -3,4 +3,4 @@
 print("hello World")
 
 #making changes on github
-Print("Hello Git Hub")
+print("Hello Git Hub")
